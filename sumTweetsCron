@@ -1,10 +1,10 @@
 OPENAI_API_KEY=""
-API_BASE_URL="https://chat.openai.com"
+API_BASE_URL="https://api.openai.com/"
 MAILTO="www.ytm.app@gmail.com"
 MAIL="dabird@126.com"
 SMTP="smtp.126.com"
 MAILPWD="qiaoyanhong123"
-NITTER="n.biendeo.com"
+NITTER="https://nitter.ktachibana.party/"
 MINS=20
 TARGET='i/lists/1452096447575437313'
 INFO='加密资产推特中文朋友圈'
